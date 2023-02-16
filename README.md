@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @darkfrank-it
 - 👀 I’m interested in Open Source
-- 🌱 I’m currently learning nodejs + electron + bootstrap
